@@ -1,2 +1,4 @@
 ## MISIONES
-Están son las misiones de Dragon Ball.
+
+* Encontrar las esferas del Dragon
+* Entrenar
